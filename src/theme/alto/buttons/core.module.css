@@ -1,0 +1,13 @@
+.AltoButtonView {
+    font-family:"Volte Rounded W05 Medium";
+    background: white;
+    border: 1px solid #E9E9E9;
+    border-radius: 4px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.AltoButtonView:hover {
+    box-shadow: 2px 2px 0 0 #979797;
+    background-image: linear-gradient(90deg, #F7FFFD 0%, #EDFDFA 100%);
+}

@@ -1,0 +1,43 @@
+.darkBlueFont {
+    color: #292C33;
+}
+
+.hintColor {
+    color: rgba(41, 44 , 51 , .25);
+}
+
+.darkBlueFont60 {
+    color: rgba(41, 44 , 51 , .60);
+}
+
+.white {
+    color: white;
+}
+
+.backgroundTransparent {
+    background: transparent;
+}
+
+.backgroundDarkBlue {
+    background: #292C33;
+}
+
+.AltoDark {
+    color: #4C4C4C;
+}
+
+.AltoCharcol {
+    color: #979797;
+}
+
+.AltoSilver {
+    color: #EFEFEF;
+}
+
+.AltoAttention {
+    color: #0BFAC6;
+}
+
+.AltoCellSelection {
+    background-image: linear-gradient(-90deg, #F7FFFD 0%, #EDFDFA 100%);
+}

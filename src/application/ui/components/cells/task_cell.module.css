@@ -1,0 +1,4 @@
+.cell {
+    composes: AltoCell from "../../../../theme/alto/cells.module.css";
+    margin-bottom: 1px;
+}

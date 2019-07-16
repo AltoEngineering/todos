@@ -1,0 +1,13 @@
+.cell {
+    composes: AltoCell from "theme/alto/cells.module.css";
+    position: relative;
+}
+
+.borderBottom {
+    position: absolute;
+    bottom: 0em;
+    left: 1em;
+    right: 0em;
+    height: 0.0625em;
+    background-color: #EFEFEF;
+}

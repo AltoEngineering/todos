@@ -1,0 +1,75 @@
+body {
+    background: white;
+    position: absolute;
+    top: 0em;
+    left: 0em;
+    right: 0em;
+    bottom: 0em;
+    margin: 0em;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    -webkit-padding-start: 0px;
+    margin: 0px;
+}
+
+li {
+    list-style-type: none;
+    padding: 0px;
+    -webkit-padding-start: 0px;
+    margin: 0px;
+}
+
+textarea {
+    background: #F4F4F3;
+    border: 1px solid rgba(47, 69, 84, 0.15);
+    border-radius: 4px;
+}
+
+textarea:focus {
+    background: #F4F4F3;
+    border: 1px solid rgba(47, 69, 84, 0.15);
+    border-radius: 4px;
+}
+
+input {
+    font-family: AvenirNext-Regular;
+    font-size: 16px;
+    padding: .2em;
+    background: #F4F4F3;
+    border: 1px solid rgba(47,69,84,0.15);
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    font-family: AvenirNext-DemiBold;
+    font-size: 18px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    border: 1px solid transparent;
+    transition: 0.2s all linear;
+    outline: none;
+    margin-right: 5px;
+    position: relative;
+    top: 4px;
+    box-shadow: 0px 0px 0px 1px #979797;
+}
+
+
+input[type="radio"]:checked {
+    border: 2.5px solid white;
+    background-color: #99d2ff;
+}
+
+input[type="radio"] + label {
+    font-family: AvenirNext-Medium;
+    font-size: 16px;
+    padding-top: 0.5em;
+}

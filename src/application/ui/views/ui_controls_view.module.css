@@ -1,0 +1,38 @@
+.base {
+    position: absolute;
+    top: 0em;
+    left: 0em;
+    right: 0em;
+    bottom: 0em;
+    display: flex;
+    background-color: #EFEFEF;
+}
+
+.masterView {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 16.625em;
+    background-color: white;
+}
+
+.toolbar {
+    composes: AltoToolbar from "theme/alto/toolbar.module.css";
+    border-right: #979797 solid 0.0625em;
+    position: relative;
+}
+
+.toolbarTitle {
+    composes: AltoToolbarTitle from "theme/alto/fonts/core.module.css";
+}
+
+.middleView {
+    height: 100%;
+    border-right: #979797 solid 0.0625em;
+}
+
+.bottomToolbar {
+    composes: AltoToolbarBottom from "theme/alto/toolbar.module.css";
+    border-right: #979797 solid 0.0625em;
+    position: relative;
+}

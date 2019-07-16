@@ -1,0 +1,39 @@
+.AltoToolbarTitle {
+    font-size: 1.6em;
+    font-family: 'All Round Gothic W01 Book';
+}
+
+.AltoToolbarSubTitle {
+    font-size: 1.2em;
+    font-family: 'Nexa W01 Bold';
+}
+
+@font-face{
+    font-family:"All Round Gothic W01 Book";
+    src:url("././1444661/0b69e97e-81b4-480b-8ede-470019941619.eot?#iefix");
+    src:url("././1444661/0b69e97e-81b4-480b-8ede-470019941619.eot?#iefix") format("eot"),url("././1444661/4fbfbbc6-157b-41c3-aa3a-9b538c4bcd29.woff2") format("woff2"),url("././1444661/e291fab4-4b35-4d7a-b1a0-43a8d26117cc.woff") format("woff"),url("././1444661/4475fecc-5356-4756-b1bb-aa4e64d38ed3.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Nexa W01 Regular";
+    src:url("./././1284757/b821715c-a9b5-4fa8-97bd-d8043b6a0a54.eot?#iefix");
+    src:url("./././1284757/b821715c-a9b5-4fa8-97bd-d8043b6a0a54.eot?#iefix") format("eot"),url("././1284757/3868814a-b44d-4e0f-a82b-f43f0d55022e.woff2") format("woff2"),url("./1284757/cf185ee1-c761-4de0-82a6-24de1e15e867.woff") format("woff"),url("./1284757/6808a2ab-0861-4b2b-bfca-97af07bd5837.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Nexa W01 Book";
+    src:url("././1284739/2b1c96f0-58c7-438b-8190-e09895f6a349.eot?#iefix");
+    src:url("././1284739/2b1c96f0-58c7-438b-8190-e09895f6a349.eot?#iefix") format("eot"),url("./1284739/c8ca8f1e-b34a-4dd0-9e89-f9cf135f425c.woff2") format("woff2"),url("./1284739/e033ae2c-04d6-4ad3-9533-1ba65ec45c43.woff") format("woff"),url("./1284739/1d2681b4-244f-43cb-8084-88b179771802.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Volte Rounded W05 Medium";
+    src:url("././5689388/fee1558b-c945-4ff8-8a25-2fc951fbfdce.eot?#iefix");
+    src:url("././5689388/fee1558b-c945-4ff8-8a25-2fc951fbfdce.eot?#iefix") format("eot"),url("./5689388/d983e5fd-0403-434f-9f4d-3bc676fe0564.woff2") format("woff2"),url("./5689388/4c7343aa-e9db-47b0-9b7a-4c8c11870938.woff") format("woff"),url("./5689388/927ddae7-e1cc-415c-97b2-782413d415c9.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:"Nexa W01 Bold";
+    src:url("././1284720/3027cdb6-c36e-4b08-b30f-6ce7b4b43bd5.eot?#iefix");
+    src:url("././1284720/3027cdb6-c36e-4b08-b30f-6ce7b4b43bd5.eot?#iefix") format("eot"),url("./1284720/0e5a6421-f5e4-4938-867d-6891e64d0aba.woff2") format("woff2"),url("./1284720/774fe857-54ab-41f8-b942-57c1dc6ee179.woff") format("woff"),url("./1284720/5aa360d1-3618-48dd-81e1-651827d6ce67.ttf") format("truetype");
+}

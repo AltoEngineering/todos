@@ -1,0 +1,38 @@
+.base {
+    position: absolute;
+    top: 0em;
+    left: 0em;
+    right: 0em;
+    bottom: 0em;
+}
+
+.toolbar {
+    composes: AltoToolbar from "theme/alto/toolbar.module.css";
+}
+
+.toolbarTitle {
+    composes: AltoToolbarTitle from "theme/alto/fonts/core.module.css";
+}
+
+.toolbarAddButton {
+    composes: AltoButtonView from "theme/alto/buttons/core.module.css";
+    margin-left: auto;
+}
+
+.middleView {
+    position: absolute;
+    top: 4em;
+    left: 0em;
+    right: 0em;
+    bottom: 4em;
+    background-color: #EFEFEF;
+    overflow-y: scroll;
+}
+
+.bottomToolbar {
+    composes: AltoToolbarBottom from "theme/alto/toolbar.module.css";
+}
+
+.bottomTitle {
+    composes: AltoToolbarSubTitle from "theme/alto/fonts/core.module.css";
+}
